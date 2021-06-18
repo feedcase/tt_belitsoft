@@ -1,9 +1,6 @@
 import pytest
 import requests
 
-global data
-global url
-
 data = {
     'id': 12,
     'username': 'test_user',
